@@ -5,7 +5,7 @@
 혼자만의 성장이 아닌, 배움을 나누어 모두가 함께 발전하는 것을 지향합니다.  
 지식을 공유하고 팀과 함께 성장하며, 데이터를 통해 사용자 관점에서 더 나은 경험을 설계하기 위해 노력합니다.  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -22,7 +22,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
