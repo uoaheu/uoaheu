@@ -47,6 +47,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -56,7 +57,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uoaheu&layout=compact&theme=radical)
 
 </div>
-
+-->
 
 <!--
 **01HongNa/01HongNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
