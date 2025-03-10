@@ -9,17 +9,20 @@
 
 
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.Js-4FC08D?style=flat-square&logo=Vue.Js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.Js-000000?style=flat-square&logo=Next.Js&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-964B00?style=flat-square&logo=Zustand&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailWindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,28 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.Js-000000?style=flat-square&logo=Next.Js&logoColor=white)
-![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-964B00?style=flat-square&logo=Zustand&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.Js-4FC08D?style=flat-square&logo=Vue.Js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailWindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-
-
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ## 📊 GitHub Stats
 
